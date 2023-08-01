@@ -1,3 +1,6 @@
+/* *
+ * Program 2 : Search an Element in an array
+ */
 
 class Solution{
         
