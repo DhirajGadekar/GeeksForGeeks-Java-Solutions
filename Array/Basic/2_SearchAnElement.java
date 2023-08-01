@@ -1,3 +1,4 @@
+
 class Solution{
         
     static int search(int arr[], int N, int X)
